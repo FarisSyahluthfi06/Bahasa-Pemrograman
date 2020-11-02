@@ -1,6 +1,6 @@
 # Bahasa-Pemrograman
 
-![git LogoUPB](LogoUPB.jpeg)
+![gitLogoUPB](Foto/LogoUPB.jpeg)<br>
 **Nama  :Faris Syahluthfi** <br>
 
 **NIM  :312010034** <br>
@@ -13,4 +13,4 @@
 
 *Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh dosen untuk membuat File Biodata Diri diAplikasi Python. Berikut dibawah ini adalah soalnya:<br>
 
-![git ContohSoal](Soal1.jpeg)<br>
+![gitContohSoal](Foto/Soal1.jpeg)<br>
